@@ -1,2 +1,2 @@
-# Reconocimiento-de-Emociones-por-Visión-Computacional
-Reconocimiento de emociones y secciones de población con visión computacional (SS)
+# Emotion-Recognition-by-Computational-Vision
+Recognition of emotions and population sections with computer vision (SS)
